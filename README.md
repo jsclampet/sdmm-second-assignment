@@ -14,4 +14,4 @@ View it [here](google.com)
 
 ## Author
 - John Clampet: FullStack Software Developer
-- ![LinkedIn](https://www.linkedin.com/in/john-clampet-264007122/)
+- [LinkedIn](https://www.linkedin.com/in/john-clampet-264007122/)
