@@ -5,7 +5,7 @@
 
 View it [here](google.com)
 
-![preview]('/../src/preview.png')
+![preview]('../src/preview.png')
 
 ## SUMMARY
 
