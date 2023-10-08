@@ -3,7 +3,7 @@
 *A form for booking a hotel room*
 *written in HTML and vanilla CSS*
 
-View it [here]([google.com](https://jsclampet.github.io/sdmm-second-assignment/))
+View it [here](https://jsclampet.github.io/sdmm-second-assignment/)
 
 ![preview](src/preview.png)
 
